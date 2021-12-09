@@ -1,0 +1,4 @@
+aiogram==2.16
+requests
+wikipedia==1.4.0
+Wikipedia-API==0.5.4
